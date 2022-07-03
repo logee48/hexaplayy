@@ -268,3 +268,83 @@ C# parse time         : 832ms
 candidates check time : 82ms
 console write time    : 1ms
 
+[api-updater (non-obsolete-error-filter)] 03-07-2022 08:42:33 : Starting C:/Users/S.ELUMALAI/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 251.0133ms
+moved types parse time: 109ms
+candidates parse time : 2ms
+C# parse time         : 393ms
+candidates check time : 73ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 03-07-2022 08:42:48 : Starting C:/Users/S.ELUMALAI/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 148.0063ms
+moved types parse time: 109ms
+candidates parse time : 2ms
+C# parse time         : 356ms
+candidates check time : 64ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 03-07-2022 08:46:05 : Starting C:/Users/S.ELUMALAI/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 170.0089ms
+moved types parse time: 110ms
+candidates parse time : 2ms
+C# parse time         : 354ms
+candidates check time : 75ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 03-07-2022 08:46:17 : Starting C:/Users/S.ELUMALAI/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 144.9976ms
+moved types parse time: 92ms
+candidates parse time : 2ms
+C# parse time         : 361ms
+candidates check time : 72ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 03-07-2022 08:47:01 : Starting C:/Users/S.ELUMALAI/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 169.0058ms
+moved types parse time: 98ms
+candidates parse time : 1ms
+C# parse time         : 373ms
+candidates check time : 70ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 03-07-2022 09:11:26 : Starting C:/Users/S.ELUMALAI/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 267.9966ms
+moved types parse time: 127ms
+candidates parse time : 2ms
+C# parse time         : 617ms
+candidates check time : 83ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 03-07-2022 09:12:15 : Starting C:/Users/S.ELUMALAI/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 302.9943ms
+moved types parse time: 273ms
+candidates parse time : 7ms
+C# parse time         : 785ms
+candidates check time : 112ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 03-07-2022 10:01:20 : Starting C:/Users/S.ELUMALAI/Downloads/2020.3.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 298.0052ms
+moved types parse time: 186ms
+candidates parse time : 3ms
+C# parse time         : 630ms
+candidates check time : 136ms
+console write time    : 3ms
+

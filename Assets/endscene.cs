@@ -11,7 +11,8 @@ public class endscene : MonoBehaviour
 
     void Start()
     {
-      scoretext.GetComponent<Text>().text = (timer.score).ToString();
+      scoretext.GetComponent<Text>().text = (button_color.score).ToString();
+      button_color.score = 0;
     }
 
     public void restart()
